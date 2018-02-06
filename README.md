@@ -1,4 +1,4 @@
-# Esempio-
+# Esempio- Prova di conflitto 2!
 Questo è un esempio
 
-Questa è una modifica.
+Questa è un' altra prova di conflitto.
